@@ -1,4 +1,4 @@
-# Cabin Booking Admin Dashboard
+# Leafy Lodgings
 
 Welcome to the Cabin Booking Admin Dashboard for our cabin rental website! This repository contains the code and documentation for the admin side of our application, which allows administrators to manage cabin listings, bookings, and user accounts. 
 
@@ -8,10 +8,7 @@ Welcome to the Cabin Booking Admin Dashboard for our cabin rental website! This 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -42,3 +39,20 @@ To get started with the Cabin Booking Admin Dashboard, follow the steps below:
 
    ```shell
    git clone https://github.com/satyamksharma/leafy-lodgings
+
+2. Change to the directory
+
+   ```shell
+   cd leafy-lodgings
+
+3. Install required dependencies
+
+   ```shell
+   npm install
+
+## Usage
+
+Once you have installed and configured, run the following command to start the development server.
+
+   ```shell
+   npm start
