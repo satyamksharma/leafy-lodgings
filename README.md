@@ -1,8 +1,44 @@
-# React + Vite
+# Cabin Booking Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Cabin Booking Admin Dashboard for our cabin rental website! This repository contains the code and documentation for the admin side of our application, which allows administrators to manage cabin listings, bookings, and user accounts. 
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+The Cabin Booking Admin Dashboard is an essential part of our cabin rental website. It provides an interface for administrators to perform various tasks, including:
+
+- Managing cabin listings: Add, edit, and remove cabin details.
+- Handling booking requests: Accept, reject, or manage booking requests from users.
+- User management: Admins can create, edit, or delete user accounts.
+- Analytics: View statistics and insights about cabin bookings and user activity.
+
+## Features
+
+- **Cabin Management:** Easily add new cabins, update existing listings, and remove outdated ones from the platform.
+
+- **Booking Management:** Admins can view and manage booking requests, approve or decline requests, and track reservation status.
+
+- **User Management:** Create, edit, or deactivate user accounts as necessary.
+
+- **Analytics:** Gain insights into user behavior and booking trends through built-in analytics tools.
+
+## Getting Started
+
+To get started with the Cabin Booking Admin Dashboard, follow the steps below:
+
+### Installation
+
+1. Clone this repository to your local machine:
+
+   ```shell
+   git clone https://github.com/satyamksharma/leafy-lodgings
